@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "House-Lee (Hao Li)"
-description              : "Ph.D. candidate of IMAG, Nanjing University of Science and Technology."
-repository               : "House-Leo/House-Leo.github.io"
+title                    : "Long Sun"
+description              : #"Ph.D."
+repository               : "sunny2109/sunny2109.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
