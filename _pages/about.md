@@ -17,8 +17,6 @@ redirect_from:
 
 {% include_relative includes/honers.md %}
 
-{% include_relative includes/project.md %}
-
 {% include_relative includes/others.md %}
 
 *Thanks for RayeRen's open-sourced template project [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).*
