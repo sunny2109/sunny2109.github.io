@@ -23,7 +23,7 @@ Mingjun Zheng\*, **Long Sun**\*, [Jiangxin Dong](https://scholar.google.com/cita
 
 ## Journal
 - [Preprint] ***Adaptive Sparse Self-Attention for Efficient Image Super-resolution and Beyond*** \
-[Jinshan Pan](https://jspan.github.io), **Long Sun**\*, Lianhong Song, [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jian Yang](https://scholar.google.com/citations?hl=zh-CN&user=6CIDtZQAAAAJ), Maocheng Zhao, [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN) \
+[Jinshan Pan](https://jspan.github.io), **Long Sun**, Lianhong Song, [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jian Yang](https://scholar.google.com/citations?hl=zh-CN&user=6CIDtZQAAAAJ), Maocheng Zhao, [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN) \
 [[Paper]]() &emsp; [[Supp]]() &emsp; [[Github]]()
 
 - [TPAMI 2025] ***Learning Efficient Deep Discriminative Spatial and Temporal Networks for Video Deblurring*** \
