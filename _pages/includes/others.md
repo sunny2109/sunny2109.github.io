@@ -5,8 +5,8 @@
 - *2015.09 - 2019.06*, Undergraduate, Information School, Yunnan University of Finance and Economics. -->
 
 # 💼  Research Experience
-- Huawei Camera, Research Intern, Jun 2025 – Oct 2025
-- Tecent Games, Remote Research Intern, Jan 2024 – Jun 2024
+- Huawei Camera: Research Intern, Jun 2025 – Oct 2025
+- Tecent Games: Remote Research Intern, Jan 2024 – Jun 2024
 
 
 # 🎓 Academic Services
