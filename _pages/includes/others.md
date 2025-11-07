@@ -22,9 +22,9 @@
 ## Journal Reviewer
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - International Journal of Computer Vision (IJCV)
-- IEEE Transactions on Image Processing (IEEE Transactions on Cybernetics (TCYB)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Neural Network and Learning System (TNNLS)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Computer Vision and Image Understanding (CVIU)
 - Pattern Recognition (PR)
 - Neurocomputing 
