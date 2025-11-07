@@ -15,11 +15,11 @@ main:
   # - title: "Projects"
   #   url: "/#-projects"
 
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
   - title: "Academic Services"
     url: "/#-academic-services"
 
-  - title: "Cooperation and Communication"
-    url: "/#-cooperation-and-communication"
+  # - title: "Cooperation and Communication"
+  #   url: "/#-cooperation-and-communication"
