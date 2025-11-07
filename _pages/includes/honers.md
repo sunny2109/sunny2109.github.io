@@ -1,6 +1,6 @@
 # 🎖 Honors and Awards
-- *2022.06* Excellent Thesis, GDUT.
-- *2022.06* Excellent Graduate Student, GDUT.
-- *2019.12* The First Class Scholarship, GDUT.
-- *2019.06* Excellent Graduate Student, GDUT.
-- *2018.10* Postgraduate Recommendation for GDUT.
+- *2024.06* Elite Doctoral Training Program at NJUST.
+- *2024.06* Norinco Scholarship.
+- *2023.12* Outstanding Presentation Award, 3rd JIG Graduate Academic Forum
+- *2023.11* NJUST Outstanding Graduate Student Award
+- *2023.06* Outstanding reviewer, CVPR 2023.
