@@ -20,11 +20,11 @@
 - AAAI 2023, 2024, 2025, 2026
 
 ## Journal Reviewer
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - International Journal of Computer Vision (IJCV)
 - IEEE Transactions on Image Processing (IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-- IEEE Transactions on Neural Network and Learning System (T-NNLS)
+- IEEE Transactions on Neural Network and Learning System (TNNLS)
 - Computer Vision and Image Understanding (CVIU)
 - Pattern Recognition (PR)
 - Neurocomputing 
