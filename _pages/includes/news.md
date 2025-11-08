@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.11*: Our PortraitSR is accepted to AAAI 2026.
 - *2025.11*: Our team won [3rd place](images/csig_3rd.png) in the 6th CSIG Image and Graphics Technical Challenge.
 - *2025.10*: Our team won [1 champion](images/huawei_camera_1st.jpg) and [1 runner-up](images\huawei_camera_2nd.jpg) in the [Huawei “Camera Academic Star” Imaging Algorithm Challenge](https://mp.weixin.qq.com/s/RaocZy7DUEdA5_Y64hrqjg).
 - *2025.10*: Our team won [3 champions](https://www.cvlai.net/aim/2025/AIM2025awards_certificates.pdf) in AIM @ ICCV 2025 Challenges.
