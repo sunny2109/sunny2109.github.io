@@ -2,7 +2,7 @@
 - *2025.11*: We release a DiT-based video super-resolution model, dubbed [STCDiT](https://github.com/JyChen9811/STCDiT), which achieves spatiotemporally consistent restoration results.
 - *2025.11*: Our PortraitSR is accepted to AAAI 2026.
 - *2025.11*: Our team won [3rd place](images/csig_3rd.png) in the 6th CSIG Image and Graphics Technical Challenge.
-- *2025.10*: Our team won [1 champion](images/huawei_camera_1st.jpg) and [1 runner-up](images\huawei_camera_2nd.jpg) in the [Huawei “Camera Academic Star” Imaging Algorithm Challenge](https://mp.weixin.qq.com/s/RaocZy7DUEdA5_Y64hrqjg).
+- *2025.10*: Our team won [1 champion](images/huawei_camera_1st.jpg) and [1 runner-up](images\huawei_camera_2nd.jpg) in the [Huawei Camera “Academic Star” Imaging Algorithm Challenge](https://mp.weixin.qq.com/s/RaocZy7DUEdA5_Y64hrqjg).
 - *2025.10*: Our team won [3 champions](https://www.cvlai.net/aim/2025/AIM2025awards_certificates.pdf) in AIM @ ICCV 2025 Challenges.
 - *2025.10*: 🎉🎉 I defended my Ph.D.
 - *2025.06*: Our team won [2 champions](https://cvlai.net/ntire/2025/NTIRE2025awards_certificates.pdf) in NTIRE @ CVPR 2025 Efficient SR Challenge.
