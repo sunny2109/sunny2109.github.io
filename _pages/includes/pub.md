@@ -10,7 +10,7 @@
 
 - [AAAI 2026] ***PortraitSR: Artist-Inspired Prior Learning for Progressive Face Super-Resolution*** \
 Miaoqing Wang, [Jiaxu Leng](https://scholar.google.com/citations?user=KpX-CCcAAAAJ&hl=zh-CN&oi=ao), [Shuang Li](https://scholar.google.com/citations?user=ePe0rG4AAAAJ&hl=zh-CN), Changjiang Kuang, **Long Sun**\
-[[Paper]]() &emsp; [[Supp]]() &emsp; [[Github]]()
+[[Paper]]() &emsp; [[Supp]]() &emsp; [[Github]](https://github.com/amazingwmq/PortraitSR)
 
 - [CVPR 2025] ***Efficient Video Super-Resolution for Real-time Rendering with Decoupled G-buffer Guidance*** \
 Mingjun Zheng\*, **Long Sun**\*, [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinshan Pan](https://jspan.github.io) \
@@ -30,6 +30,10 @@ Mingjun Zheng\*, **Long Sun**\*, [Jiangxin Dong](https://scholar.google.com/cita
 [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/6e60a9023d2c63f7f0856910129ae753-Paper-Conference.pdf) &emsp; [[Supp]](https://papers.nips.cc/paper_files/paper/2022/file/6e60a9023d2c63f7f0856910129ae753-Supplemental-Conference.pdf) &emsp; [[Github]](https://github.com/sunny2109/ShuffleMixer)
 
 ## Journal
+- [Preprint] ***RawEnhancer: Attentive Multi-Exposure Selection for Bracketing Image Reconstruction*** \
+**Long Sun**, [Jinshan Pan](https://jspan.github.io), Rushi Lan, Yazhou Yao, [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN) \
+  [[Paper]]() &emsp; [[Supp]]() &emsp; [[Github]]()
+  
 - [Preprint] ***Adaptive Sparse Self-Attention for Efficient Image Super-resolution and Beyond*** \
 [Jinshan Pan](https://jspan.github.io), **Long Sun**, Lianhong Song, [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jian Yang](https://scholar.google.com/citations?hl=zh-CN&user=6CIDtZQAAAAJ), Maocheng Zhao, [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN) \
 [[Paper]]() &emsp; [[Supp]]() &emsp; [[Github]]()
