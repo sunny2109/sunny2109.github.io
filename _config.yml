@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Long Sun (孙龙)"
   avatar           : "images/profile.jpg"
-  bio              : "Hunan University"
+  bio              : #"Hunan University"
   location         : "Changsha, China"
   employer         : 
   pubmed           : 
