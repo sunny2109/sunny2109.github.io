@@ -1,5 +1,4 @@
-
--- I am currently a postdoctoral associate at the [National Engineering Research Center of RVC](https://robot.hnu.edu.cn/index.htm), working with Prof. [Min Liu](https://robotics.hnu.edu.cn/info/1176/3087.htm). Prior to this, I obtained my Ph.D. in Computer Science from Nanjing University of Science and Technology, where I was advised by Prof. [Jinshan Pan](https://jspan.github.io/) at [IMAG](https://imag-njust.net/) Lab. 
+I am currently a postdoctoral associate at the [National Engineering Research Center of RVC](https://robot.hnu.edu.cn/index.htm), working with Prof. [Min Liu](https://robotics.hnu.edu.cn/info/1176/3087.htm). Prior to this, I obtained my Ph.D. in Computer Science from Nanjing University of Science and Technology, where I was advised by Prof. [Jinshan Pan](https://jspan.github.io/) at [IMAG](https://imag-njust.net/) Lab. 
 
 <!-- I obtained my Ph.D. in Computer Science from Nanjing University of Science and Technology, where I was advised by Prof. [Jinshan Pan](https://jspan.github.io/) at [IMAG](https://imag-njust.net/) Lab. -->
 
