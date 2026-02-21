@@ -4,7 +4,7 @@
 ### **(<sup>$*$</sup> equal contribution, <sup>#</sup> corresponding author)**
 
 ## Conference
-- [Preprint] **STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution**\
+- [CVPR 2026] **STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution**\
 [Junyang Chen](https://jychen9811.github.io/), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [**Long Sun**](https://sunny2109.github.io/), [Yixin Yang](https://yyang181.github.io/), [Jinshan Pan](https://jspan.github.io/) \
 [[Paper]](https://arxiv.org/pdf/2511.18786) &emsp; [[Supp]]() &emsp; [[Github]](https://github.com/JyChen9811/STCDiT)
 
