@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.03*: Our [ASSANet](https://github.com/sunny2109/ASSANet) is accepted to TPAMI 2026.
+- *2026.02*: Our [STCDiT](https://github.com/JyChen9811/STCDiT) is accepted to CVPR 2026.
 - *2025.11*: We release a DiT-based video super-resolution model, dubbed [STCDiT](https://github.com/JyChen9811/STCDiT), which achieves spatiotemporally consistent restoration results.
 - *2025.11*: Our PortraitSR is accepted to AAAI 2026.
 - *2025.11*: Our team won [3rd place](images/csig_3rd.png) in the 6th CSIG Image and Graphics Technical Challenge.

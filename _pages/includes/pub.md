@@ -34,9 +34,9 @@ Mingjun Zheng\*, **Long Sun**\*, [Jiangxin Dong](https://scholar.google.com/cita
 **Long Sun**, [Jinshan Pan](https://jspan.github.io), Rushi Lan, Yazhou Yao, [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN) \
   [[Paper]]() &emsp; [[Supp]]() &emsp; [[Github]]()
   
-- [Preprint] ***Adaptive Sparse Self-Attention for Efficient Image Super-resolution and Beyond*** \
+- [TPAMI 2026] ***Adaptive Sparse Self-Attention for Efficient Image Super-resolution and Beyond*** \
 [Jinshan Pan](https://jspan.github.io), **Long Sun**, Lianhong Song, [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jian Yang](https://scholar.google.com/citations?hl=zh-CN&user=6CIDtZQAAAAJ), Maocheng Zhao, [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN) \
-[[Paper]]() &emsp; [[Supp]]() &emsp; [[Github]]()
+[[Paper]](https://ieeexplore.ieee.org/document/11422344/) &emsp; [[Supp]](https://ieeexplore.ieee.org/document/11422344/) &emsp; [[Github]](https://github.com/sunny2109/ASSANet)
 
 - [TPAMI 2025] ***Learning Efficient Deep Discriminative Spatial and Temporal Networks for Video Deblurring*** \
 [Jinshan Pan](https://jspan.github.io), **Long Sun**, Boming Xu, [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN) \
