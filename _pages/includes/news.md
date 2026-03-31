@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.03*: We present an efficient agent model for image restoration, dubbed [TIR-Agent](https://arxiv.org/pdf/2603.27742), which achieves achieves over 2.5× inference speedup compared to training-free agents, and outperforms 12 baselines across both in-domain and out-of-domain settings.
 - *2026.03*: Our [ASSANet](https://github.com/sunny2109/ASSANet) is accepted to TPAMI 2026.
 - *2026.02*: Our [STCDiT](https://github.com/JyChen9811/STCDiT) is accepted to CVPR 2026.
 - *2025.11*: We release a DiT-based video super-resolution model, dubbed [STCDiT](https://github.com/JyChen9811/STCDiT), which achieves spatiotemporally consistent restoration results.
