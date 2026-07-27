@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.07*: One paper ([LatentDance]()) is accepted to Siggraph Asia 2026.
 - *2026.06*: Two papers ([TIR-Agent](https://arxiv.org/pdf/2603.27742) and DCASR) are accepted to ECCV 2026.
 - *2026.06*: Our team won the **1st** and **3rd** places in the [3D Content Super-Resolution](https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Wang_NTIRE_2026_Challenge_on_3D_Content_Super-Resolution_Methods_and_Results_CVPRW_2026_paper.pdf) and [Short-form UGC Video Restoration in the Wild with Generative Models](https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Li_NTIRE_2026_Challenge_on_Short-form_UGC_Video_Restoration_in_the_CVPRW_2026_paper.pdf) challenges at NTIRE 2026, respectively.
 - *2026.03*: We present an efficient agent model for image restoration, dubbed [TIR-Agent](https://arxiv.org/pdf/2603.27742), which achieves over 2.5× inference speedup compared to training-free agents, and outperforms 12 baselines across both in-domain and out-of-domain settings.
